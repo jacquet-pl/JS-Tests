@@ -16,7 +16,7 @@ Data manipulation (json) in javascript
 
 # Expectations
 
-The code must be clean, indented and understandable by a novice.
-Test are welcome.
-No need to use third party libraries.
+- The code must be clean, indented and understandable by a novice.
+- Tests are welcome.
+- Each function should be easily to test.
 
